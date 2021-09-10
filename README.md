@@ -1,7 +1,11 @@
-👋 Hi, I’m @m-moraes
+👋 Hi, I’m @m-moraes.
+
 👀 I’m interested in learning and developing my skills as a full-stack web developer.
+
 🌱 I’m currently learning HTML, CSS and JavaScript.
+
 💞️ I’m looking to collaborate on challenging projects that can make the world a better place.
+
 📫 How to reach me? Send an email to: mari_a.s.p@hotmail.com
 
 <!---
