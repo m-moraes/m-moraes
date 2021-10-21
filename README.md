@@ -1,6 +1,6 @@
-👋 Hi, I’m @m-moraes.
+👋 Hi, I’m Mariana Moraes, student at Trybe. 
 
-👀 I’m interested in learning and developing my skills as a full-stack web developer.
+👀 I’m interested in learning and developing my skills as a full stack web developer. 
 
 🌱 I’m currently learning HTML, CSS and JavaScript.
 
