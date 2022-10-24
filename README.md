@@ -1,4 +1,4 @@
-#### 👽 Hi, I’m Mariana Moraes, web development student at Trybe. 
+#### 👽 Hi, I’m Mariana Moraes, web development student. 
 
   <a href="https://github.com/m-moraes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=m-moraes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
