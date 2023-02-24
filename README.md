@@ -1,5 +1,5 @@
 #### 👽 Hi, I’m Mariana Moraes, web development student at Trybe and Colégio Santo Inácio.
-#### 👩🏻‍💻 I'm currently learning NodeJS, SQL, Docker, and always studying JavaScript.  
+#### 👩🏻‍💻 I'm currently learning NodeJS, SQL, Docker, and always studying JavaScript, HTML, and CSS.  
 
 <img height="150" src="https://99px.ru/sstorage/86/2015/09/image_861509150942172612826.gif"/>
 
